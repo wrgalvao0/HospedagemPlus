@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Ruda:wght@400;500;600;700;800;900&display=swap');                    /*Importacao da fonte*/    /*Fonte: font-family: 'Ruda', sans-serif;*/
-@import '/assets/css/buttons.css'; /*importacao do arquivo de estilizacao para botoes*/
+@import 'buttons.css'; /*importacao do arquivo de estilizacao para botoes*/
 
 /*configuração de cores*/
 :root{
