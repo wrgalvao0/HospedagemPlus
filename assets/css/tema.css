@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Ruda:wght@400;500;600;700;800;900&display=swap');                    /*Importacao da fonte*/    /*Fonte: font-family: 'Ruda', sans-serif;*/
+@import '/assets/css/buttons.css'; /*importacao do arquivo de estilizacao para botoes*/
+
+/*configuração de cores*/
+:root{
+    --bg-orange: #F46A05;
+    --bg-orange-hover: #D85F08;
+    --bg-black: #000000;
+    --bg-marrom-1: #757575;
+    --bg-marrom-2: #F4F4F4;
+    --bg-white: #FFFFFF;
+    --bg-yellow: #FCB705;
+    --bg-roxo: #E9008C; 
+}
+html, body{
+    font-size: 16px;
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+    width: 100%;
+    height: 100%;
+}
