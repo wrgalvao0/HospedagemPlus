@@ -2,6 +2,8 @@
 @import 'buttons.css'; /*importacao do arquivo de estilizacao para botoes*/
 @import 'background.css';
 @import 'inputs.css';
+@import 'position.css';
+@import 'cores.css';
 
 /*configuração de cores*/
 :root{
