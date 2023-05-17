@@ -1,0 +1,28 @@
+@media (min-width: 1024px) and (max-width: 1440px) {
+    .carousel{
+        height: 400px;
+    }
+    .carousel-inner{
+        height: 400px;
+    }
+    .carousel-item{
+        height: 400px;
+    }
+    .carousel-item-img{
+        height: 400px;
+    }
+}
+@media (min-width: 1441px) and (max-width: 2560px){
+    .carousel{
+        height: 600px;
+    }
+    .carousel-inner{
+        height: 600px;
+    }
+    .carousel-item{
+        height: 600px;
+    }
+    .carousel-item-img{
+        height: 600px;
+    }
+}
