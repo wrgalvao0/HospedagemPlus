@@ -15,3 +15,10 @@
     background-position: top;
     background-repeat: no-repeat;
 }
+.background-banner-login{
+    width: 50%;
+    height: 100%;
+    background-image: url('../img/banners/banner-login.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
