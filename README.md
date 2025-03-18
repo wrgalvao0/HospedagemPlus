@@ -11,7 +11,7 @@ Bootstrap – Design responsivo e componentes prontos para uso.
 
 ✨ Funcionalidades
 
-Exibição de Hotéis e pousdas em destaque.
+Exibição de Hotéis e pousadas em destaque.
 
 Exibição de Hotéis e pousadas em promoções
 
