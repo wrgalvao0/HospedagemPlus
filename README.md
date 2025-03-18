@@ -15,9 +15,11 @@ Exibição de Hotéis e pousadas em destaque.
 
 Exibição de Hotéis e pousadas em promoções
 
-Página com todos os hotéis cadastrados
+Página com todos os hotéis cadastrados.
 
-Página para verificar a disponibilidade do Hotel e realizar uma pré-reserva
+Página para pesquisar por hotéis de forma filtrada em categorias, como Promoções, Preço, Tipos de acomodações e Serviços oferecidos pelos Hotéis.
+
+Página para verificar a disponibilidade do Hotel e realizar uma pré-reserva.
 
 Interface moderna e responsiva para diferentes dispositivos.
 
